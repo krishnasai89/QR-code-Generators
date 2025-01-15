@@ -1,0 +1,1 @@
+In this code example, we have used a library of JavaScript to create a QR code, and when the user enters any text or link in the input field and presses Enter, that keyword (text) will generate a new QR code by using qrcode.makeCode, and that QR code can be scanned by any device and will give the output that the user entered in the input field.
